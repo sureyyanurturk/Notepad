@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomDB Example</string>
+    <string name="title">Konu Başlığı</string>
+    <string name="subject">Konu Tanıtımı</string>
+    <string name="description">Konu İçeriği</string>
+    <string name="sign">Kaydet</string>
+
+</resources>
